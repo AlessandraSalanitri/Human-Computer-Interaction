@@ -1,5 +1,5 @@
 # Human-Computer-Interaction
-Critical Reviews Report and Prototype
+Critical Reviews Report and Prototype with Figma.
 
 
 # This critical review aims to increase the website’s accessibility and enhance the overall user experience.
